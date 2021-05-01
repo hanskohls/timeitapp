@@ -19,6 +19,8 @@
   "homepage": "https://github.com/hanskohls/timeitapp#readme",
   "dependencies": {
     "apollo-server": "^2.24.0",
+    "dotenv": "^8.2.0",
+    "pg": "^8.6.0",
     "reflect-metadata": "^0.1.13",
     "type-graphql": "^1.1.1",
     "typeorm": "^0.2.32"
